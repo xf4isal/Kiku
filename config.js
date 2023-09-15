@@ -88,16 +88,16 @@ global.thumbnail = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = 'https://telegra.ph/file/ff5ff2954de46b9509a3d.jpg'
-global.creator = "12024988527@s.whatsapp.net"
-global.nomorown = '12024988527'
-global.nomerown = '+1 (202) 498-8527'//wajib kaya gitu!!
+global.creator = "6281230690468@s.whatsapp.net"
+global.nomorown = '6281230690468'
+global.nomerown = '+62 812-3069-0468'//wajib kaya gitu!!
 
 // Sosial Media
-global.sig = 'https://wa.me/12024988527'
+global.sig = 'https://wa.me/6281230690468'
 global.syt = '-'
 global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/EHvO9j6JMHb9roHNTvtbdy'
-global.swa = 'https://wa.me/12024988527'
+global.swa = 'https://wa.me/6281230690468'
 global.swb = '-' // Link Discord
 global.snh = 'https://nhentai.net/g/365296/' // Link nhentai
 
@@ -118,18 +118,18 @@ global.fpagedoc = '999'
 global.useMulti = false
 
 // Watermark
-global.packname = 'Kikuchanj'
+global.packname = 'x'
 global.author = '//  Lèarning'
-global.wm = 'Kikuchanj'
-global.wm2 = 'Sazumi Kemii'
+global.wm = 'Why must x?'
+global.wm2 = 'cuz it is x'
 global.bottime = `Time: ${wktuwib}`
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.danied = 'A K S E S  K A M U  D I  T O L A K!!'
-global.packname = 'Kikuchanj'
-global.author = 'Sazumi Kemii'
-global.nameown = 'Kemii Lèarning'
-global.wait = 'Wait a moment... '
+global.packname = 'x'
+global.author = 'xaisal'
+global.nameown = 'x'
+global.wait = 'Wait a momentx... '
 
 // Tampilan
 global.htki =  '⬣───「' // Hiasan kiri
